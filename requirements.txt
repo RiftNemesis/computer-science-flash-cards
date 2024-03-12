@@ -27,3 +27,4 @@ six==1.10.0
 urllib3==1.26.5
 virtualenv==15.1.0
 Werkzeug==0.15.3
+certifi>=2023.7.22 # not directly required, pinned by Snyk to avoid a vulnerability
